@@ -13,6 +13,18 @@ The **Swiggy Sales & Business Performance Dashboard** is an interactive Power BI
 
 The dashboard provides meaningful insights through interactive visualisations, KPI cards, charts, and filters. It helps users understand business trends, customer behaviour, and restaurant performance.
 
+## 📂 Project Files & Dataset
+
+The Power BI dashboard file (`.pbix`) and supporting dataset are hosted on Google Drive due to their large file size.
+
+**Access Project Files:**
+
+🔗 [Download Power BI Dashboard & Dataset](https://drive.google.com/drive/folders/1ccN0FVm1Dmfgw4QNRd_VcFO6N1S9t2LO?usp=sharing)
+
+> Note: Open the Google Drive link to access the Power BI report and dataset.
+
+---
+
 ## 📊 Dashboard Pages
 
 ### 🏠 1. Home
@@ -120,12 +132,13 @@ This page evaluates restaurant performance based on ratings, pricing, sales, and
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository.
-2. Open the file using Microsoft Power BI Desktop.
-3. Connect the required dataset if prompted.
-4. Update the data source path if necessary.
-5. Refresh the data.
-6. Explore all five dashboard pages using interactive filters and navigation.
+1. Open the Google Drive link provided in the Project Files section.
+2. Download the Power BI (`.pbix`) file and required dataset.
+3. Open the `.pbix` file using Microsoft Power BI Desktop.
+4. Connect the dataset if prompted.
+5. Update the data source path if necessary.
+6. Refresh the data.
+7. Explore all five dashboard pages using interactive filters and navigation.
 
 ## 🎯 Project Objective
 
